@@ -1,0 +1,7 @@
+base   dw2pdfextras
+author Andreas Gohr, Anna Dabrowska
+email  dokuwiki@cosmocode.de
+date   2019-12-09
+name   dw2pdfextras plugin
+desc   Extend dw2pdf with NS export button
+url    https://www.dokuwiki.org/plugin:dw2pdfextras
